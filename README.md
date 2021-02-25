@@ -20,6 +20,7 @@ How to use:
 >_random population  _
 >_save current simulation_  
 >_load simulation_  
+
 •	Keyboard Controls  
 >_g_ = change grid thickness  
 >_c_ = change cell colors  
