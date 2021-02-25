@@ -1,10 +1,10 @@
 # App-Game-of-Life
 #### Designer: Andrew Vien
-#### Concepts: C++ functions
+#### Concepts: C++ Fundamentals of Computer Science
 #### Made with: Qt Creator editor, SFML visual plugins.
 
 Executable C++ application that generates a visual simulation of Conway's _Game of Life_.  
-Allows simulation and UI manipulation. Features save/load simulation through reading/writing text file.  
+Allows simulation and UI manipulation. Features save/load simulation through reading/writing text file. Made through 2D arrays and basic C++ functions.  
 
 How to use:  
 1. Download app folder  
