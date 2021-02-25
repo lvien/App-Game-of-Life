@@ -15,9 +15,9 @@ How to use:
 • Buttons
 >_play/pause simulation_  
 >_change simulation speed_  
->_step next generation  _
->_kill all  _
->_random population  _
+>_step next generation_  
+>_kill all_  
+>_random population_  
 >_save current simulation_  
 >_load simulation_  
 
