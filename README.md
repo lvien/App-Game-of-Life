@@ -13,13 +13,13 @@ How to use:
 #### Controls
 • _Mouse click_ on grid to enable/disable cell  
 • Buttons
->_play/pause simulation  
->change simulation speed  
->step next generation  
->kill all  
->random population  
->save current simulation  
->load simulation_  
+>_play/pause simulation_  
+>_change simulation speed_  
+>_step next generation  _
+>_kill all  _
+>_random population  _
+>_save current simulation_  
+>_load simulation_  
 •	Keyboard Controls  
 >_g_ = change grid thickness  
 >_c_ = change cell colors  
